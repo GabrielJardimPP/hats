@@ -1,9 +1,12 @@
 # A Tutorial on HATS for Stock Price Prediction
 
-**By: Gabriel Pereira Pinto and Tim Ruel**
+**By: Gabriel Pereira Pinto (@GabrielJardimPP) and Tim Ruel (@TimRuel)**
 
 This README is intended as an explanation of the HATS paper by authors Raehyun Kim, Chan Ho So, Minbyul Jeong, Sanghoon Lee, Jinkyu Kim, and Jaewoo Kang. All code and intellectual property is credited to these authors.
 
+## Link to Presentation Video
+
+https://www.youtube.com/watch?v=vMQ4D5kdIc8
 
 
 ## Tutorial Steps
