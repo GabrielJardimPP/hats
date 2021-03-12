@@ -425,3 +425,4 @@ node_classification/data/relation/adj_mat.pkl
 node_classification/data/relation/ordered_ticker.pkl
 node_classification/data/relation/rel_mat.pkl
 node_classification/data/relation/rel_num.pkl
+.vscode/settings.json

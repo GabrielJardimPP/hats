@@ -3,5 +3,5 @@ train_HATS_node:
 			--feature_list return \
 			--feat_att \
 			--rel_att \
-			--test_phase $(test_phase) \
-			--save_dir $(save_dir) \
+			--test_phase=1 \
+			--save_dir=save

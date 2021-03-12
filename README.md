@@ -6,8 +6,7 @@ This README is intended as an explanation of the HATS paper by authors Raehyun K
 
 ## Link to Presentation Video
 
-https://www.youtube.com/watch?v=vMQ4D5kdIc8
-
+https://www.youtube.com/watch?v=98iH7jBehHE
 
 ## Tutorial Steps
 1. Understanding HATS
