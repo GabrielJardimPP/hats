@@ -67,9 +67,9 @@ The authors applied a fully connected layer and outputted its *Softmax*, perform
 A Python environment containing all the required packages to run HATS can be created in Anaconda with the commands:
 
 ```conda
-conda create --name <envname>
+conda create --name <envname> python=3.6.13
 conda activate <envname>
-conda install Numpy=1.15.1 Tensorflow=1.11.0 pandas sklearn
+conda install numpy=1.15.1 tensorflow=1.11.0 pandas scikit-learn
 ```
 
 ## Creating the Stock Dataset
