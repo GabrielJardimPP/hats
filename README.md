@@ -513,7 +513,7 @@ In order to evaluate the results of the network, they divided the historical dat
 
 The success of the trading strategy above is measured using the return and Sharpe ratio of the portfolios. The authors also measure the effectiveness of the algorithm in terms of accuracy/ F1 score.
 
-![Results](/figs/results.png)
+![Results](/figs/Results.png)
 
 Their key findings can be summarized below:
 
@@ -527,7 +527,7 @@ HATS was able to produce a 9.61% average daily return which represents a signifi
 
 The authors analyzed the attentention scores of the relations, in order to understand which types of links are important for the prediction task. 
 
-![Relations](/figs/relations.png)
+![Relations](/figs/Relations.png)
 
 Notice that the relations with the highest scores are the ones that represent dominant-subordinate relationships, but some high scores relations represent industrial dependencies. Most relations with low scores represent location links.
 
